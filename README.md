@@ -1,10 +1,11 @@
 # ![Imagem de Capa](/img/Storm%20Access%20GitHub.jpg)
+
 <div align="center">
 <h1>
 <a href="#-descrição">Descrição</a> || <a href="#️-estrutura">Estrutura</a> || <a href="#️-tecnologias">Tecnologias</a> || <a href="#-dev-team">Dev Team</a> || <a href="#-product-backlog">Product Backlog</a> || <a href="#-scrum">Scrum</a> || <a href="#-instalação">Instalação</a>
 </h1>
 </div>
-<br>
+
 ## 📝 Descrição
 <img src="/img/Qli-Mate App.jpg" min-width="400px" max-width="400px" width="400px" align="left" alt="Logo do Qli-Mate">
 
