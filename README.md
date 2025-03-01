@@ -1,13 +1,13 @@
 # ![Imagem de Capa](/img/Storm%20Access%20GitHub.jpg)
 
 <div style="text-align: center;">
-  <a href="#-descrição"><img src="/img/1.%20Descrição.png" alt="Botão 01" width="140"></a>
-  <a href="#️-estrutura"><img src="/img/2.%20Estrutura.png" alt="Botão 02" width="140"></a>
-  <a href="#️-tecnologias"><img src="/img/3.%20Tecnologias.png" alt="Botão 03" width="140"></a>
-  <a href="#-dev-team"><img src="/img/4.%20Dev%20Team.png" alt="Botão 04" width="140"></a>
-  <a href="#-product-backlog"><img src="/img/5.%20Product%20Backlog.png" alt="Botão 05" width="140"></a>
-  <a href="#-scrum"><img src="/img/6.%20Scrum.png" alt="Botão 06" width="140"></a>
-  <a href="#-instalação"><img src="/img/7.%20Instalação.png" alt="Botão 07" width="140"></a>
+  <a href="#-descrição"><img src="/img/1.%20Descrição.png" alt="Botão 01" width="130"></a>
+  <a href="#️-estrutura"><img src="/img/2.%20Estrutura.png" alt="Botão 02" width="130"></a>
+  <a href="#️-tecnologias"><img src="/img/3.%20Tecnologias.png" alt="Botão 03" width="130"></a>
+  <a href="#-dev-team"><img src="/img/4.%20Dev%20Team.png" alt="Botão 04" width="130"></a>
+  <a href="#-product-backlog"><img src="/img/5.%20Product%20Backlog.png" alt="Botão 05" width="130"></a>
+  <a href="#-scrum"><img src="/img/6.%20Scrum.png" alt="Botão 06" width="130"></a>
+  <a href="#-instalação"><img src="/img/7.%20Instalação.png" alt="Botão 07" width="130"></a>
 </div>
 
 ## 📝 Descrição
