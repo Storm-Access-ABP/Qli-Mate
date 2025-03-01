@@ -11,7 +11,7 @@
 </div>
 
 ## 📝 Descrição
-<img src="/img/Qli-Mate App.jpg" min-width="400px" max-width="400px" width="500px" align="left" alt="Logo do Qli-Mate">
+<img src="/img/Qli-Mate App.jpg" min-width="400px" max-width="400px" width="400px" align="left" alt="Logo do Qli-Mate">
 
 <div style="text-align: justify;">
   <p style="text-align: justify;">
