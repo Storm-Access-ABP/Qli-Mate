@@ -1,6 +1,6 @@
 # ![Imagem de Capa](/img/Storm%20Access%20GitHub.jpg)
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="#-descrição"><img src="/img/1.%20Descrição.png" alt="Botão 01" width="110"></a>
   <a href="#️-estrutura"><img src="/img/2.%20Estrutura.png" alt="Botão 02" width="110"></a>
   <a href="#️-tecnologias"><img src="/img/3.%20Tecnologias.png" alt="Botão 03" width="110"></a>
