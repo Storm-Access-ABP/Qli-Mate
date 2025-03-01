@@ -34,9 +34,13 @@ As principais tecnologias utilizadas neste projeto incluem:
 - [Tecnologia 3](https://exemplo.com): Breve descrição.
 
 ## 👨‍💻 Dev Team
-- **[Nome do Dev 1](https://perfil-link.com)**: Função ou responsabilidade no projeto.
-- **[Nome do Dev 2](https://perfil-link.com)**: Função ou responsabilidade no projeto.
-- **[Nome do Dev 3](https://perfil-link.com)**: Função ou responsabilidade no projeto.
+| Nome                                  | Função              | GitHub                                          |
+|---------------------------------------|---------------------|-------------------------------------------------|
+| Victor Hugo Dantas Carbajo            | Product Owner       | [GitHub](https://github.com/Victor-Carbajo-DSM) |
+| Rodrigo de Andrade Paula              | Scrum Master        | [GitHub](https://github.com/RodrigodeAndrade90) |
+| Lucas Roque Alvim Cruz                | Dev Team (Front-end)| [GitHub](https://github.com/lucasroqe)          |
+| Maurício Oliveira Medeiros Cepinho    | Dev Team (Back-end) | [GitHub](https://github.com/maucepinho)         |
+| Gabriel Rodrigues de Paula            | Dev Team (Back-end) | [GitHub](https://github.com/gabriel0067)        |
 
 ## 📋 Product Backlog
 1. **Feature 1**: Breve descrição da funcionalidade.
